@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#0b1220"/>
+  <rect x="36" y="36" width="1128" height="648" rx="24" fill="#111827" stroke="#a78bfa" stroke-width="4"/>
+  <text x="80" y="130" fill="#f8fafc" font-family="Arial, sans-serif" font-size="46" font-weight="700">Custom Fullstack Websites</text>
+  <text x="80" y="190" fill="#c4b5fd" font-family="Arial, sans-serif" font-size="28">React + APIs + Dashboards + Database</text>
+  <circle cx="980" cy="170" r="70" fill="#0f172a" stroke="#a78bfa" stroke-width="4"/>
+  <text x="980" y="182" text-anchor="middle" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="32" font-weight="700">WEB</text>
+</svg>
